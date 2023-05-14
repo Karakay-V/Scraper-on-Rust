@@ -1,0 +1,9 @@
+/home/karakay-v/Documents/Scrapper/target/debug/deps/log-b7002f1ab15c8d8b.rmeta: /home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/lib.rs /home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/macros.rs /home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/serde.rs
+
+/home/karakay-v/Documents/Scrapper/target/debug/deps/liblog-b7002f1ab15c8d8b.rlib: /home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/lib.rs /home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/macros.rs /home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/serde.rs
+
+/home/karakay-v/Documents/Scrapper/target/debug/deps/log-b7002f1ab15c8d8b.d: /home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/lib.rs /home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/macros.rs /home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/serde.rs
+
+/home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/lib.rs:
+/home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/macros.rs:
+/home/karakay-v/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/data/cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/serde.rs:
